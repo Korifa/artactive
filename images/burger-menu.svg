@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="18" 
+viewBox="0 0 40 18">
+<path d='M0,1.25 h24 M24,9 h-24 M0,16.75 h24' stroke='white' stroke-width='2.5'/>
+<line x1='24' y1='0' x2='40' y2='16' stroke='#000' stroke-width='1' />
+<line x1='40' y1='0' x2='24' y2='16' stroke='#000' stroke-width='1'/>
+</svg>
